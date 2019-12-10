@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_areaofcircle"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="AreaOfcircle" />
+        <item
+            android:id="@+id/nav_palindrome"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Palinndrome" />
+        <item
+            android:id="@+id/nav_swapping"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Swapping" />
+        <item
+            android:id="@+id/nav_automorphic"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="AutoMorphic" />
+    </group>
+
+
+
+</menu>
